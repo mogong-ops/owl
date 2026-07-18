@@ -1,1 +1,6 @@
-{"version":1,"updatedAt":1784290556,"servers":[{"name":"主节点","url":"https://xxxx.xx","region":"hk","priority":1},{"name":"次节点","url":"https://xxxx.xx","region":"hk","priority":2}]}
+{
+  "time": 1784355823,
+  "urls": [
+    "owl.mogong.cc"
+  ]
+}
